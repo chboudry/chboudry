@@ -20,7 +20,7 @@ I am currently working at Fastrack for Azure @ Microsoft. Therefore you will fin
 ### Azure
 
 - Landing Zone 
-   - [LandingZone cheatsheet review](https://github.com/chboudry/articles/blob/master/azure-landingzone-review.md)
+   - [Landing zone cheatsheet review](https://github.com/chboudry/articles/blob/master/azure-landingzone-review.md)
    - [Terraform - TreyResearch](https://github.com/chboudry/trey-research-terraform)
 
 - Azure Machine Learning
