@@ -31,4 +31,5 @@ I am currently working at Fastrack for Azure @ Microsoft. Therefore you will fin
 
 - Initiative
    - Azure Visual Intelligence
+   - [Azure Storage JS explorer](https://github.com/chboudry/AzureStorageJSExplorer)
    - [Trusted Research Environment Installation Guide](https://github.com/chboudry/articles/blob/master/tre_installation_cheatsheet.md)
