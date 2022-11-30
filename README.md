@@ -31,3 +31,4 @@ I am currently working at Fastrack for Azure @ Microsoft. Therefore you will fin
 
 - Initiative
    - Azure Visual Intelligence
+   - [Trusted Research Environment Installation Guide](https://github.com/chboudry/articles/blob/master/tre_installation_cheatsheet.md)
