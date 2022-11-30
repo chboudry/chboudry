@@ -24,6 +24,6 @@ I am currently working at Fastrack for Azure @ Microsoft. Therefore you will fin
    - [Terraform - TreyResearch](https://github.com/chboudry/trey-research-terraform)
 
 - Azure Machine Learning
-   - [Terraform - Secure AML architecture-NOPIP](https://github.com/chboudry/aml-secure-terraform)
+   - [Terraform - Secure AML architecture - No Public IP](https://github.com/chboudry/aml-secure-terraform)
    - Pipeline - Github pipeline trigger AML pipeline
    - Pipeline - Github pipeline tirgger AML pipeline within secure AML architecture
