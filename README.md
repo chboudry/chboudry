@@ -25,8 +25,8 @@ I am currently working at Fastrack for Azure @ Microsoft. Therefore you will fin
 
 - Azure Machine Learning
    - [Terraform - Secure AML architecture - No Public IP](https://github.com/chboudry/aml-secure-terraform)
-   - Pipeline - Github pipeline to trigger AML pipeline (public AML architecture)
-   - Pipeline - Github pipeline to trigger AML pipeline (secure AML architecture)
+   - [Pipeline - Github pipeline to trigger AML pipeline (public AML architecture)](https://github.com/chboudry/aml-public-pipeline)
+   - [Pipeline - Github pipeline to trigger AML pipeline (secure AML architecture)](https://github.com/chboudry/aml-secure-pipeline)
    - Kubeflow on AKS
 
 - Initiative
