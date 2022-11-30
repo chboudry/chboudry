@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Introduction
+
+I am currently working at Fastrack for Azure @ Microsoft. Therefore you will find most of the content related to Azure.
+
+### Azure
+
+- Landing Zone 
+   - [LandingZone cheatsheet review](https://github.com/chboudry/articles/blob/master/azure-landingzone-review.md)
+   - [Terraform - TreyResearch](https://github.com/chboudry/trey-research-terraform)
+
+- Azure Machine Learning
+   - [Terraform - Secure AML architecture-NOPIP](https://github.com/chboudry/aml-secure-terraform)
+   - Pipeline - Github pipeline trigger AML pipeline
+   - Pipeline - Github pipeline tirgger AML pipeline within secure AML architecture
