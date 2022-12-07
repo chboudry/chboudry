@@ -29,7 +29,7 @@ I am currently working at Fastrack for Azure @ Microsoft. Therefore you will fin
    - [Pipeline - Github pipeline to trigger AML pipeline (secure AML architecture)](https://github.com/chboudry/aml-secure-pipeline)
    - [Kubeflow on AKS](https://github.com/chboudry/Kubeflow-on-AKS)
 
-- Initiative
+- Initiatives
    - [Azure Visual Intelligence](https://github.com/Azure/azure-visual-intelligence)
    - [Azure Storage JS explorer](https://github.com/chboudry/AzureStorageJSExplorer)
    - [Trusted Research Environment Installation Guide](https://github.com/chboudry/articles/blob/master/tre_installation_cheatsheet.md)
