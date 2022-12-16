@@ -24,9 +24,12 @@ I am currently working at Fastrack for Azure @ Microsoft. Therefore you will fin
    - [Terraform - TreyResearch](https://github.com/chboudry/trey-research-terraform)
 
 - Azure Machine Learning
-   - [Terraform - Secure AML architecture - No Public IP](https://github.com/chboudry/aml-secure-terraform)
+   - AML Secure
+      - [Terraform - Secure AML architecture - No Public IP](https://github.com/chboudry/aml-secure-terraform)
+      - Inference - Secure Managed Endpoint
+      - Inference - Secure AKS
+      - [Pipeline - Github pipeline to trigger AML pipeline (secure AML architecture)](https://github.com/chboudry/aml-secure-pipeline)
    - [Pipeline - Github pipeline to trigger AML pipeline (public AML architecture)](https://github.com/chboudry/aml-public-pipeline)
-   - [Pipeline - Github pipeline to trigger AML pipeline (secure AML architecture)](https://github.com/chboudry/aml-secure-pipeline)
    - [Kubeflow on AKS](https://github.com/chboudry/Kubeflow-on-AKS)
 
 - Initiatives
