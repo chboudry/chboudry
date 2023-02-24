@@ -22,6 +22,7 @@ I am currently working at Fastrack for Azure @ Microsoft. Therefore you will fin
 - Landing Zone 
    - [Landing zone cheatsheet review](https://github.com/chboudry/articles/blob/master/azure-landingzone-review.md)
    - [Terraform - TreyResearch](https://github.com/chboudry/trey-research-terraform)
+   - [Terraform state management](https://github.com/chboudry/terraform-state)
 
 - Azure Machine Learning
    - AML Secure
