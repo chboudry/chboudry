@@ -25,7 +25,7 @@ I am currently working at Fastrack for Azure @ Microsoft. Therefore you will fin
    - [Terraform state management](https://github.com/chboudry/terraform-state)
 
 - Azure Machine Learning
-   - AML Secure
+   - AML Secure series
       - [Create a secure architecture - Terraform - No Public IP](https://github.com/chboudry/aml-secure-terraform)
       - [Build environment](https://github.com/chboudry/aml-secure-terraform/blob/main/docs/build_environment.md)
       - [Deploy the diabetes model to AKS](https://github.com/chboudry/aml-secure-terraform/blob/main/docs/howtouse_aks.md)
