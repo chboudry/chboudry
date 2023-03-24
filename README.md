@@ -26,7 +26,8 @@ I am currently working at Fastrack for Azure @ Microsoft. Therefore you will fin
 
 - Azure Machine Learning
    - AML Secure
-      - [Terraform - Secure AML architecture - No Public IP](https://github.com/chboudry/aml-secure-terraform)
+      - [Create a secure AML architecture - Terraform - No Public IP](https://github.com/chboudry/aml-secure-terraform)
+      - [Build environment for secure AML](https://github.com/chboudry/aml-secure-terraform)
       - [Pipeline - Github pipeline to trigger AML pipeline (secure AML architecture)](https://github.com/chboudry/aml-secure-pipeline)
    - [Inference in docker image](https://github.com/chboudry/inference-docker)
    - [Yolov7 on AML](https://github.com/chboudry/aml-yolov7)
