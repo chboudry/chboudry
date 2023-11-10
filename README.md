@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently working at Fastrack for Azure @ Microsoft. Therefore you will find most of the content related to Azure.
-
 ### Azure
 
 - Landing Zone 
