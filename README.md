@@ -25,7 +25,7 @@ Here are some ideas to get you started:
    - [Kubernetes network architecture](https://github.com/chboudry/neo4j-kubernetes)
    - [Ingestion](https://github.com/chboudry/finance)
 - Verticals
-   - [Finance Vertical](https://github.com/chboudry/finance)
+   - [Finance](https://github.com/chboudry/finance)
    
 
 ### Azure
