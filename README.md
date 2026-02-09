@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### GRAPH 
 
+- Graph RAG
+   - [Graph RAG Recipe Book](https://chboudry.github.io/cookingGraphRag)
 - Graph Data Science
    - [Learn Graph Algorithm](https://chboudry.github.io/learnGraphAlg)
 - Neo4J
