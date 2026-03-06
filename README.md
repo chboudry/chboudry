@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - Graph Data Science
    - [Learn Graph Algorithm](https://chboudry.github.io/learnGraphAlg)
 - Neo4J
+   - [Neo4J guide](https://github.com/chboudry/neo4j-guide)
    - [Kubernetes network architecture](https://github.com/chboudry/neo4j-kubernetes)
    - [Ingestion](https://github.com/chboudry/finance)
 - Verticals
