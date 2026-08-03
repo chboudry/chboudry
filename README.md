@@ -2,23 +2,24 @@
 
 ## PyTorch
 <!--
-- Fundamentals *(coming soon)*
-- Training & Optimization *(coming soon)*
+- Fundamentals
+- Training & Optimization
 -->
 - Computer Vision
    - [Yolov7 on AML](https://github.com/chboudry/aml-yolov7)
 
 ## Graph Machine Learning
+- [Graph Algorithms](https://chboudry.github.io/learnGraphAlg)
 <!--
-- PyTorch Geometric *(coming soon)*
+- PyTorch Geometric
+- Entity Resolution
 -->
 - [Graph RAG Recipe Book](https://chboudry.github.io/cookingGraphRag)
-- [Learn Graph Algorithm](https://chboudry.github.io/learnGraphAlg)
 
+  
 ## Neo4j
 - [Neo4J Guide](https://github.com/chboudry/neo4j-guide)
 - [Kubernetes Deployment Guide](https://github.com/chboudry/neo4j-kubernetes)
-- [Ingestion](https://github.com/chboudry/finance)
 
 ## Use Cases
 - [Fraud Detection](https://github.com/chboudry/fraud)
