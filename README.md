@@ -21,7 +21,7 @@
 - [Ingestion](https://github.com/chboudry/finance)
 
 ## Use Cases
-- [Fraud Detection](https://github.com/chboudry/finance)
+- [Fraud Detection](https://github.com/chboudry/fraud)
 
 ## Previous Work
 
