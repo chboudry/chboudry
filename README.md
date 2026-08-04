@@ -10,16 +10,16 @@
 
 ## Graph Machine Learning
 - [Graph Algorithms](https://chboudry.github.io/learnGraphAlg)
+- [Graph RAG Recipe Book](https://chboudry.github.io/cookingGraphRag)
 <!--
 - PyTorch Geometric
 - Entity Resolution
 -->
-- [Graph RAG Recipe Book](https://chboudry.github.io/cookingGraphRag)
 
   
 ## Neo4j
 - [Neo4J Guide](https://github.com/chboudry/neo4j-guide)
-- [Kubernetes Deployment Guide](https://github.com/chboudry/neo4j-kubernetes)
+- [Neo4J on Kubernetes Deployment Guide](https://github.com/chboudry/neo4j-kubernetes)
 
 ## Use Cases
 - [Fraud Detection](https://github.com/chboudry/fraud)
